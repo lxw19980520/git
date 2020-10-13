@@ -1,0 +1,2 @@
+config:
+  into: "spring cloud config dev , version=1"
